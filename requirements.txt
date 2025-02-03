@@ -1,4 +1,3 @@
-rest_framework
 djangorestframework
 corsheaders
 dj-database-url
