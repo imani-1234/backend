@@ -1,5 +1,4 @@
 djangorestframework
-cors-headers
 dj-database-url
 pillow
 django-cors-headers
