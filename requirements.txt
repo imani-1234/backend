@@ -2,7 +2,7 @@ djangorestframework
 corsheaders
 dj-database-url
 pillow
-django-cors-headers>=3.10
+django-cors-headers
 guniunicorn
 psycopg2-binary
 python-dotenv
