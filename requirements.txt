@@ -2,6 +2,6 @@ djangorestframework
 dj-database-url
 pillow
 django-cors-headers
-guniunicorn
+gunicorn
 psycopg2-binary
 python-dotenv
