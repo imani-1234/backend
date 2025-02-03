@@ -5,4 +5,4 @@ pillow
 django-cors-headers
 guniunicorn
 psycopg2-binary
-python-dotenv
+python-3.10
